@@ -1,16 +1,12 @@
-# Learn Go with Tests
+# Aprendiendo Go con Testing
 
-<p align="center">
-  <img src="red-green-blue-gophers-smaller.png" />
-</p>
+![](.gitbook/assets/red-green-blue-gophers-smaller.png)
 
 [Art by Denise](https://twitter.com/deniseyu21)
 
-[Buy me a coffee :coffee:](https://www.buymeacoffee.com/quii)!
+¡[Compra un café al autor original :coffee:](https://www.buymeacoffee.com/quii)!
 
 _Learn test-driven development with Go_
-
-Translations: [中文](https://studygolang.gitbook.io/learn-go-with-tests), [Português](https://larien.gitbook.io/aprenda-go-com-testes/)
 
 * Explore the Go language by writing tests
 * **Get a grounding with TDD**. Go is a good language for learning TDD because it is a simple language to learn and testing is built-in
@@ -73,4 +69,5 @@ Taking my experience of learning with a group and my own personal way I am going
 
 * Add issues/submit PRs [here](https://github.com/quii/learn-go-with-tests) or [tweet me @quii](https://twitter.com/quii)
 
-[MIT license](LICENSE.md)
+[MIT license](https://github.com/josevill/learn-go-with-tests/tree/2006553b99afb2bd5e1ef86b875d424883656336/LICENSE.md)
+
